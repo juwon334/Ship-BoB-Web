@@ -2304,7 +2304,7 @@ section {
   margin: 1px;
   margin-top: 0px;
   background-color: #f7f7f4;
-  vertical-align: middle;
+  /* vertical-align: middle; */
   transition: background-color 0.3s ease-in-out;
 }
 
