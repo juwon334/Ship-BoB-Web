@@ -2416,7 +2416,7 @@ section {
 }
 
 .cvssjs .severity {
-  width: 5em;
+  width: 6em;
   border-radius: 4px;
   padding: 5px;
   text-align: center;
